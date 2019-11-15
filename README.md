@@ -3,7 +3,8 @@ Materials for Workshop on Geospatial Tools for Peace
 
 # Data
 - ACLED Data: https://build-peace.s3-us-west-1.amazonaws.com/2019/2017-09-01-2019-09-30-Philippines.csv
-- Demographic Data: https://build-peace.s3-us-west-1.amazonaws.com/2019/dom_m_15_2020_santo_domingo.tif
+- Demographic Data for Cairo, Egypt: https://build-peace.s3-us-west-1.amazonaws.com/2019/egy_m_15_2019_cairo.tif
+- Demographic Data for Santo Domingo: https://build-peace.s3-us-west-1.amazonaws.com/2019/dom_m_15_2020_santo_domingo.tif
 - Sudan Danger Zones: https://build-peace.s3-us-west-1.amazonaws.com/2019/sudan-danger-zones.geojson
 
 # Other Work
