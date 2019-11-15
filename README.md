@@ -13,6 +13,9 @@ Materials for Workshop on Geospatial Tools for Peace
 - Demographic Data for Santo Domingo: https://build-peace.s3-us-west-1.amazonaws.com/2019/dom_m_15_2020_santo_domingo.tif
 - Sudan Danger Zones: https://build-peace.s3-us-west-1.amazonaws.com/2019/sudan-danger-zones.geojson
 
+# Notebooks
+- https://observablehq.com/@geosurge/finding-safe-routes
+
 # Other Work
 - OSM against gender based violence:
   https://crowd2map.wordpress.com/2018/12/01/16-days-of-activism-against-gender-based-violence-in-tanzania/
