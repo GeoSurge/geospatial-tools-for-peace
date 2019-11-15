@@ -4,6 +4,7 @@ Materials for Workshop on Geospatial Tools for Peace
 # Online Tools
 - OpenStreetMap: https://www.openstreetmap.org/
 - Humanitarian OpenStreetMap Team Tasking Manager: https://tasks.hotosm.org/
+- Kepler.GL: http://kepler.gl/
 
 # Data
 - ACLED Data: https://build-peace.s3-us-west-1.amazonaws.com/2019/2017-09-01-2019-09-30-Philippines.csv
