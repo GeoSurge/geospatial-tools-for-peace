@@ -6,7 +6,9 @@ Materials for Workshop on Geospatial Tools for Peace
 - Egyptian Demographic Data: https://build-peace.s3-us-west-1.amazonaws.com/2019/dom_m_15_2020.tif
 
 # Other Work
-- https://crowd2map.wordpress.com/2018/12/01/16-days-of-activism-against-gender-based-violence-in-tanzania/
+- OSM against gender based violence:
+  https://crowd2map.wordpress.com/2018/12/01/16-days-of-activism-against-gender-based-violence-in-tanzania/
+  https://docs.google.com/presentation/d/1U0Og21GRHUXiepHEBQvmPzxDKf_U3Yo8VEDcZiVJc0I/edit#slide=id.g425121cf45_0_406
 
 # Contact
 Daniel Dufour (daniel@geosurge.io) and 
