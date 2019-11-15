@@ -1,6 +1,10 @@
 # geospatial-tools-for-peace
 Materials for Workshop on Geospatial Tools for Peace
 
+# Online Tools
+- OpenStreetMap: https://www.openstreetmap.org/
+- Humanitarian OpenStreetMap Team Tasking Manager: https://tasks.hotosm.org/
+
 # Data
 - ACLED Data: https://build-peace.s3-us-west-1.amazonaws.com/2019/2017-09-01-2019-09-30-Philippines.csv
 - Demographic Data for Cairo, Egypt: https://build-peace.s3-us-west-1.amazonaws.com/2019/egy_m_15_2019_cairo.tif
